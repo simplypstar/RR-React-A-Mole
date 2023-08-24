@@ -1,6 +1,6 @@
+// SplashScreen - unable to make this work; will complete later
 import React, {Fragment} from 'react';
 import App from '../App';
-
 
 function splashScreen() {
   

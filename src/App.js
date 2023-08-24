@@ -6,19 +6,10 @@ import './App.css'
 // import splashScreen from './components/SplashScreen.js'
 // import BrowserRouter from 'react-router-dom';
 
-
 // function AppStart() {
-
 //   splashScreen()
-
 // }
-
-// function AppStart() {
-    
-//   splashScreen()
-
-// }
-
+// App.js
 function App() {
   
 let [score, setScore] = useState(0)
@@ -46,9 +37,7 @@ let [score, setScore] = useState(0)
             <h2> {score} </h2>
             {createMoleHill()}
         </div>
-    )
-    
-    
+    )    
 }
 
 export default App;

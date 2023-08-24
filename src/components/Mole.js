@@ -1,6 +1,6 @@
+// Mole.js
 import {useEffect} from 'react'
 import moleImg from '../mole.png'
-//import App from './App';
 
 const Mole = (props) => {
     useEffect(() => {

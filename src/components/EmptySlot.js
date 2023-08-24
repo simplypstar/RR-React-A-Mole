@@ -1,6 +1,6 @@
+//EmptySlot.js
 import { useEffect } from "react"
 import MoleHill from '../molehill.png'
-//import App from './App';
 
 const EmptySlot = (props) => {
 

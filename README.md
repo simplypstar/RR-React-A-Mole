@@ -72,5 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### References
 Referenced the 'https://github.com/HackerUSA-CE/RR-React-A-Mole.git' GitHub repository for assistance with completing this project
 
-Creating a Splash Screen for Your React Apps
+Creating a splash screen for your react apps (unable to complete; will work on at a later date)
 https://auth0.com/blog/creating-a-splash-screen-for-your-react-apps/
